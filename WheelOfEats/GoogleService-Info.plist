@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>855342718242-5chq0a3v9kj6hsjbfhllf2kts77g1l2u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.855342718242-5chq0a3v9kj6hsjbfhllf2kts77g1l2u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDN4LWftDMl-h6PaQcEolwQ8dP7c6Dyd4g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>855342718242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.roxana.WheelOfEats</string>
+	<key>PROJECT_ID</key>
+	<string>wheel-of-eats</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wheel-of-eats.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:855342718242:ios:3f11c8cbb8ee2033</string>
+	<key>DATABASE_URL</key>
+	<string>https://wheel-of-eats.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16F73" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Wheel" representedClassName="Wheel" syncable="YES" codeGenerationType="class">
+        <attribute name="entry1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="entry2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="entry3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="entry4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="entry5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="entry6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="entry7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="entry8" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wheeldescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wheelTitle" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Wheel" positionX="-63" positionY="-18" width="128" height="195"/>
+    </elements>
+</model>

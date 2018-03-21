@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Auth0.plist
+   WheelOfEats
+
+   Created by admin on 17/08/2017.
+   Copyright (c) 2017 __MyCompanyName__. All rights reserved.
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>ClientId</key>
+        <string>a57f63c07ff14695a18d0fd01cb7e117</string>
+        <key>Domain</key>
+        <string>https://instagram.com</string>
+    </dict>
+</plist>
